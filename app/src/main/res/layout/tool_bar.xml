@@ -4,20 +4,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/my_toolbar"
     android:layout_height="?attr/actionBarSize"
-    android:background="@drawable/rectangle_2"
-    android:elevation="16dp"
+    android:background="@color/white"
+    android:elevation="8dp"
     android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-    android:gravity="center"
     >
-
-    <View
-        android:id="@+id/rectangle_3"
-        android:layout_width="265dp"
-        android:layout_height="44dp"
-        android:layout_marginStart="40pt"
-        android:background="@drawable/ic_tour_logo"
-        />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_tour_logo2"
+    android:layout_gravity="center"
+    />
 
 
 </com.google.android.material.appbar.MaterialToolbar>

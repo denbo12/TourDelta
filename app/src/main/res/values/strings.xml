@@ -3,6 +3,12 @@
     <string name="home_menu">Home</string>
     <string name="search_menu">Search</string>
     <string name="book_menu">Book</string>
+    <string name="explore">Explore Places in Delta</string>
+    <string name="tour_discription">Lorem ipsum dolor sit amet,</string>
+    <string name="tour_discription_two">consectetur adipiscing elit. Morbi libero.</string>
+    <string name="trending_locations">Trending Locations</string>
+    <string name="view_all">View All</string>
+    <string name="places_explore">Places to Explore</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
