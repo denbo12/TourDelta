@@ -24,6 +24,11 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="Find Destination"
+            android:drawableStart="@drawable/ic_search__box"
+            android:paddingStart="10dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:layout_weight="1"
             android:textColor="@color/text_blue" />
 
     </com.google.android.material.textfield.TextInputLayout>

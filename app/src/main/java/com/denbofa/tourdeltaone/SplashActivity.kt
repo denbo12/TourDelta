@@ -30,7 +30,7 @@ class SplashActivity : AppCompatActivity() {
                    val intent = Intent(this@SplashActivity, MainActivity::class.java)
                     startActivity(intent)
                     finish()
-                }, 6000)
+                }, 3000)
             }
 
             override fun onAnimationRepeat(animation: Animation?) {
