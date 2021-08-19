@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TourDeltaOne</string>
+    <string name="app_name">TourDelta</string>
     <string name="home_menu">Home</string>
     <string name="search_menu">Search</string>
     <string name="book_menu">Book</string>
@@ -9,6 +9,13 @@
     <string name="trending_locations">Trending Locations</string>
     <string name="view_all">View All</string>
     <string name="places_explore">Places to Explore</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="cities">
+        <item>Warri</item>
+        <item>Asaba</item>
+        <item>Abraka</item>
+        <item>Sapale</item>
+        <item>Ugheli</item>
+        <item>Argbor</item>
+        <item>Ozoro</item>
+    </string-array>
 </resources>
